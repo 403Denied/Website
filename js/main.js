@@ -1,5 +1,5 @@
 const api = {
-    key: "341ea35a765fe5f4b93b3379c2890954",
+    key: "get ur own api key nerd",
     base: "https://api.openweathermap.org/data/2.5/"
 }
 const hamburger = document.querySelector('.hamburger');
